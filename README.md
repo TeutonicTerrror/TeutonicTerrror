@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm TeutonicTerror!
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=TeutonicTerror.TeutonicTerror&style=flat-square)
+
 **Pronouns:** he/him 🧑  
 **Gender:** Male 🚹
 
@@ -9,7 +11,7 @@
 - **Tools:** Git, Chrome Extensions, VS Code
 
 ## ⚙️ Scripting
-- Websites and other scripting projects⛏️
+- Websites and other scripting projects ⛏️
 - Custom Projects 🎮
 - Browser Scripting (Userscripts/Chrome Extensions) 🌐
 
@@ -24,4 +26,3 @@ Feel free to reach out to me at my [Portfolio Website](https://teutonicterror.pa
 > "Code is like humor. When you have to explain it, it’s bad."
 
 ---
-
