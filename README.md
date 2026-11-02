@@ -27,5 +27,6 @@ Mostly interested in web development, UI/UX, automation, and figuring out how th
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F38020)
 
 ---
