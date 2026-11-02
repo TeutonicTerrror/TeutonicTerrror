@@ -1,37 +1,31 @@
-# 👋 Hi there, I'm TeutonicTerror!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1B03&width=435&lines=Hey%2C+I'm+TeutonicTerror)](https://git.io/typing-svg)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=TeutonicTerror.TeutonicTerror&style=flat-square)
 
-**Pronouns:** he/him 
-**Gender:** Male 
+I build websites, extensions, and little tools that make everyday things easier.
+Mostly interested in web development, UI/UX, automation, and figuring out how things work.
 
-I'm a passionate developer with a love for creating websites, browser extensions, and desktop apps. I also love to make small coding snippets to make life easier. My goal is to build innovative solutions that make a difference in people's digital life.
+**[Portfolio](https://teutonicterror.pages.dev/) · [Contact](https://teutonicterror.pages.dev/contacts.html) · [Ko-fi](https://ko-fi.com/teutonic)**
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, TypeScript, HTML, CSS, C++, C#, Swift, Luau
-- **Frameworks/Libraries:** Node.js, Tailwind CSS, React
-- **Tools:** Git, Chrome Extensions, VS Code, AWS, Firebase
+---
 
-## ⚙️ What I Build
-- Websites & web apps 
-- Browser extensions & userscripts 
-- Desktop applications 
-- Discord themes 
-- Automation & productivity tools 
+### Languages
 
-## 🎯 Interests
-- UI/UX Design 
-- Automation & Productivity Tools 
-- Gaming 
-- Accessibility & Inclusive Design 
-- Digital Privacy & Security 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp)
 
-## ☕ Support My Work
-If you like what I do, consider supporting me on Ko-Fi!
+### Tools & Frameworks
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-teutonic-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/teutonic)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-## 📫 Let's Connect!
-- **[Contact](https://teutonicterror.pages.dev/contacts.html)** -- My official website with my email, Discord, GitHub, Ko-Fi.
-
-> "Enhance and modernize what is left behind."
+---
