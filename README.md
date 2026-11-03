@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1B03&width=435&lines=Hey%2C+I'm+TeutonicTerror)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=40&pause=1000&color=8D0000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+TeutonicTerror)](https://git.io/typing-svg)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=TeutonicTerror.TeutonicTerror&style=flat-square)
 
