@@ -1,4 +1,3 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1B03&width=435&lines=Hey%2C+I'm+TeutonicTerror)](https://git.io/typing-svg)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=TeutonicTerror.TeutonicTerror&style=flat-square)
@@ -7,7 +6,6 @@ I build websites, extensions, and little tools that make everyday things easier.
 Mostly interested in web development, UI/UX, automation, and figuring out how things work.
 
 **[Portfolio](https://teutonicterror.pages.dev/) · [Contact](https://teutonicterror.pages.dev/contacts.html) · [Ko-fi](https://ko-fi.com/teutonic)**
-</div>
 
 ---
 
