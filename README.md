@@ -17,7 +17,6 @@ Mostly interested in web development, UI/UX, automation, and figuring out how th
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css)
 ![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust)
 
 ### Tools & Frameworks
